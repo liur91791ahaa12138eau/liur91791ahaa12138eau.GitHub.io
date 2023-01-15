@@ -2,12 +2,12 @@
 title: Icassp
 SEOTitle: ICASSP - TEXT
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: liur91791@gmail.com
 # description: "中西融合, 即学即会, 从此不再辛苦背单词"
 # keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+url: "https://liur91791ahaa12138eau.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/liur91791ahaa12138eau/liur91791ahaa12138eau.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
